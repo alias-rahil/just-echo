@@ -1,6 +1,6 @@
 {
     "name": "just-echo",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "npm package template",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -34,7 +34,11 @@
         "npm",
         "package",
         "just-echo",
-        "javascript"
+        "javascript",
+        "cli",
+        "demo",
+        "test",
+        "boilerplate"
     ],
     "homepage": "https://alias-rahil.github.io/just-echo",
     "files": [
