@@ -71,7 +71,7 @@ For CLI usage, see the help option:
 npx just-echo --help
 ```
 
-For programmatic usage, use the default exported module. It takes any number of arguments (of same type) and returns them all in the form of an array.
+For programmatic usage, use the default exported module. It takes any number of arguments and returns them all in the form of an array.
 
 ## Author
 
