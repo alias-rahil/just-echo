@@ -71,7 +71,7 @@ For CLI usage, see the help option:
 npx just-echo --help
 ```
 
-For programmatic usage, use the default exported module. It takes any number of arguments and returns them all in the form of an array.
+For programmatic usage, use the default exported module. It takes any number of arguments (of same type) and returns them all in the form of an array.
 
 ## Author
 
@@ -89,7 +89,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## just-echo
+## Just-echo
 
 🏠 [Homepage](https://alias-rahil.github.io/just-echo)
 
